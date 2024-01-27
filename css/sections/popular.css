@@ -61,6 +61,7 @@
     align-items: flex-end;
     flex-wrap: wrap;
     gap: 56px;
+    
 }
 .popular-foods__button{
     width: fit-content;
